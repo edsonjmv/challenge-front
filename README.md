@@ -1,24 +1,21 @@
-# challenge-front
+# DEVELOPERS CHALLENGE
 
-## Project setup
-```
+## Ejecutar servidor local de microservicios (NodeJS)
+
+```bash
+cd challenge-api
 npm install
+npm start
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
+## Ejecutar servidor local de aplicación frontal (Vue)
+
+```bash
+cd challenge-front
+npm install
+npm start
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Navegar a http://localhost:8080/
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[Servidor local](http://localhost:8080/)
